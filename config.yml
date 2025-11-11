@@ -1,2 +1,2 @@
-ShutdownTime: 0.01
-ShutdownAtStart: false
+ShutdownTime: 30
+ShutdownAtStart: true
